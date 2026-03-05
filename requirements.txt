@@ -1,0 +1,4 @@
+Pillow>=10.0.0
+pyzbar>=0.1.9
+openpyxl>=3.1.0
+pytwain>=2.1.0
